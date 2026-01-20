@@ -12,7 +12,7 @@ Aplicação simples da biblioteca Electron. Testando e estudando sobre.
 
 ## Screenshots
 
-[Screenshot do App](Screenshot.png)
+<img src="Screenshot.png" alt="">
 
 ## 🛠️ Tecnologias Utilizadas
 * **Electron** (Framework para apps desktop)
