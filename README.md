@@ -5,14 +5,16 @@
   ![Electron](https://img.shields.io/badge/Electron-30.0.0-47848F?logo=electron&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
   ![Versão](https://img.shields.io/badge/version-1.0.0-blue)
+  [![Download Windows](https://img.shields.io/badge/Download-Windows-0078D4?style=flat&logo=windows&logoColor=white)](https://github.com/MaluWhoo/app-electron/archive/refs/tags/v1.0.0.zip)
   
 </div>
 
 Aplicação simples da biblioteca Electron. Testando e estudando sobre.
 
 ## Screenshots
-
-<img src="Screenshot.png" alt="">
+<div align="center">
+  <img src="Screenshot.png" alt="" >
+</div>
 
 ## 🛠️ Tecnologias Utilizadas
 * **Electron** (Framework para apps desktop)
@@ -39,6 +41,11 @@ Como a pasta `node_modules` não é enviada para o GitHub, siga estes passos par
 4. **Inicie o aplicativo:**
    ```bash
    npm start
-   
+
+## 📥 Download
+Clique no link abaixo para baixar a versão mais recente para Windows:
+
+[![Download Windows](https://img.shields.io/badge/Download-Windows-0078D4?style=flat&logo=windows&logoColor=white)](LINK_DO_SEU_EXE_AQUI)
+
 ## 📝 Licença
 Este projeto está sob a licença MIT.
