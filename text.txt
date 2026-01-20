@@ -1,0 +1,23 @@
+1. Install node.js 
+    macOS: brew install node  
+    Windows: winget install OpenJS.NodeJS.LTS
+    Linus: sudo apt update
+           sudo apt install nodejs npm 
+
+2. Criando um arquivo chamado package.json
+    npm init -y
+
+    É necessário abrir o arquivo e mudar a linha do main para o Electron não rodar o arquivo index.js ao invés do main.js
+    JSON -> fica assim: "main": "main.js",
+
+3. Biblioteca Electron -> --save-dev: O projeto Electron é uma "Dependência de Desenvolvimento"
+    Para instalar o Electron:
+        npm install electron --save-dev
+
+4. Arquivos main.js e package.json:
+    Copie ambos os arquivos como estão dentro do repositório (para facilicar o processo de desenvolvimento)
+
+5. Rodar App
+    npm run start
+    
+    Parar aplicação: Ctrl + C
