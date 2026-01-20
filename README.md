@@ -45,7 +45,7 @@ Como a pasta `node_modules` não é enviada para o GitHub, siga estes passos par
 ## 📥 Download
 Clique no link abaixo para baixar a versão mais recente para Windows:
 
-[![Download Windows](https://img.shields.io/badge/Download-Windows-0078D4?style=flat&logo=windows&logoColor=white)](LINK_DO_SEU_EXE_AQUI)
+[![Download Windows](https://img.shields.io/badge/Download-Windows-0078D4?style=flat&logo=windows&logoColor=white)](https://github.com/MaluWhoo/app-electron/archive/refs/tags/v1.0.0.zip)
 
 ## 📝 Licença
 Este projeto está sob a licença MIT.
